@@ -116,10 +116,11 @@ Create df5 to provide debt-to-income ratio ‘DI_Ratio’ for each 'Business ID'
 Concatenate df5 to df2 and store as df5
 END
  
+[](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:fa724273-d16f-4537-bcf4-e17dd24eb490)
 
 As seen above, the Pseudocode and data within the flowchart symbols outline the code structure. Effective flowcharts create better readability and streamline development for pseudocode, thus ensuring efficient problem solving, clarity, and efficiency in programming languages such as Python and R. Pseudocode serves as a crucial programming tool, a blueprint that bridges human understanding with computer program execution. (WGU, Section 2: Summary)
 
-<img width="2805" height="7095" alt="D598ProgramPlanning" src="https://github.com/user-attachments/assets/9549062e-dd44-4fef-8d27-03b878f3f8cc" />
+
 
 
 References
