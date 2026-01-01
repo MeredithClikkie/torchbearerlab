@@ -87,6 +87,7 @@ END
 ## Support
 There are many resources available for help. If using IntelliJ IDEA, go to https://www.jetbrains.com/idea/ for support.
 To get help for GitLab, please see the help option at the bottom of the left navigation sidebar.
-<div>
-  <script src="https://gist.github.com/MeredithClikkie/6b50a70871e9b955247a3dcc276a5930.js"></script>
-<div>
+<div class="gist-container">
+  <script src="https://gist.github.com/meredithclikkie/6b50a70871e9b955247a3dcc276a5930<img width="596" height="38" alt="image" src="https://github.com/user-attachments/assets/e6e3848a-49d6-4af6-8052-31bf3fe46003" />
+.js"></script>
+</div>
