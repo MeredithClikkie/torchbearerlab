@@ -1,19 +1,16 @@
-# Site Settings
 title: Torchbearer Lab
-description: Welcome to my research and project space.
-baseurl: "" # Leave empty for project sites or set to "/repository-name"
+description: Research and Project Space
+remote_theme: pages-themes/minimal@v0.2.0
+baseurl: "/torchbearerlab.github.io"
 url: "https://meredithclikkie.github.io"
 
-# Theme Settings
-# Using the default "Minima" theme which supports blog posts out of the box
-theme: jekyll-theme-minimal
+# This helps Jekyll find your posts
+collections:
+  posts:
+    output: true
 
-# Post Settings
-future: true      # This ensures posts show up even if the time zones are slightly off
-show_excerpts: true # Shows a preview of the post on the home page
+# Ensures your post shows up regardless of timezone
+future: true
 
-# Build Settings
-markdown: kramdown
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+  - jekyll-remote-theme
