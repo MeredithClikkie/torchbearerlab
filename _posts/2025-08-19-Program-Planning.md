@@ -119,6 +119,9 @@ END
 
 As seen above, the Pseudocode and data within the flowchart symbols outline the code structure. Effective flowcharts create better readability and streamline development for pseudocode, thus ensuring efficient problem solving, clarity, and efficiency in programming languages such as Python and R. Pseudocode serves as a crucial programming tool, a blueprint that bridges human understanding with computer program execution. (WGU, Section 2: Summary)
 
+<img width="2805" height="7095" alt="D598ProgramPlanning" src="https://github.com/user-attachments/assets/9549062e-dd44-4fef-8d27-03b878f3f8cc" />
+
+
 References
 Codecademy Team. (Accessed August 16, 2025). Psuedocode and Flowchart: Complete Beginner’s Guide.
 Geeksforgeeks.org. (2025, July 26). What is PseudoCode: A Complete Tutorial.
