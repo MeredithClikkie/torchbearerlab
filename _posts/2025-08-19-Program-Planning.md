@@ -129,4 +129,4 @@ Western Governors University (Accessed August 16, 2025). D598 Analytics Programm
 Western Governors University (Accessed August 16, 2025). D598 Analytics Programming Core Concepts: Documenting Required Components – Lesson 2: Pseudocode.
 Western Governors University (Accessed August 16, 2025). D598 Analytics Programming Core Concepts: Documenting Required Components – Section 2: Introduction.
 Western Governors University (Accessed August 16, 2025). D598 Analytics Programming Core Concepts: Documenting Required Components – Section 2: Summary.
-<img width="468" height="618" alt="image" src="https://github.com/user-attachments/assets/67a91170-2867-4582-b48c-5e4409872a5c" />
+
