@@ -1,16 +1,11 @@
 title: Torchbearer Lab
-description: Research and Project Space
-remote_theme: pages-themes/minimal@v0.2.0
+# This "permalink" line forces a simple structure
+permalink: /:title/
 baseurl: "/torchbearerlab.github.io"
 url: "https://meredithclikkie.github.io"
+remote_theme: pages-themes/minimal@v0.2.0
 
-# This helps Jekyll find your posts
+# This ensures the build isn't skipping your posts
 collections:
   posts:
     output: true
-
-# Ensures your post shows up regardless of timezone
-future: true
-
-plugins:
-  - jekyll-remote-theme
