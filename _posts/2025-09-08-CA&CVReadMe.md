@@ -87,3 +87,5 @@ END
 ## Support
 There are many resources available for help. If using IntelliJ IDEA, go to https://www.jetbrains.com/idea/ for support.
 To get help for GitLab, please see the help option at the bottom of the left navigation sidebar.
+
+<script src="https://gist.github.com/MeredithClikkie/6b50a70871e9b955247a3dcc276a5930.js"></script>
