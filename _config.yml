@@ -2,7 +2,7 @@ title: Torchbearer Lab
 # This "permalink" line forces a simple structure
 permalink: /:title/
 baseurl: "/torchbearerlab"
-url: "https://meredithclikkie.github.io"
+url: "https://MeredithClikkie.github.io"
 remote_theme: pages-themes/minimal@v0.2.0
 
 # This ensures the build isn't skipping your posts
