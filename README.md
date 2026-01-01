@@ -1,4 +1,4 @@
-# torchbearerlab.github.io
+# torchbearerlab
 Projects and Blog posts
 
 ---
